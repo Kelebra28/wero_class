@@ -1,0 +1,17 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h6 {
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+img {
+    width: 200px;
+}
