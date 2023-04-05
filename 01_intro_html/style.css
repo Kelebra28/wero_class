@@ -12,6 +12,17 @@ h6 {
     color: white;
 }
 
+p {
+    color: red;
+}
+
+.primero{
+    color: blueviolet;
+}
+
+#doblep{
+    color: #9d23b3;
+}
 img {
     width: 200px;
 }
